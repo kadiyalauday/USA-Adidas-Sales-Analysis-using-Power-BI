@@ -1,4 +1,4 @@
-### USA-Adidas-Sales-Analysis-using-Power-BI
+## USA-Adidas-Sales-Analysis-using-Power-BI
 
 ### Aim
 
