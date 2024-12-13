@@ -10,16 +10,16 @@ In this project, I analyzed the USA Adidas sales data for the years 2020-2021. I
 
 ### Technologies Used
 
-* Power BI Desktop: For data analysis, visualization, and report creation.
+Power BI Desktop: For data analysis, visualization, and report creation.
 
 ### Procedure
 
 **1. Data Collection:**
-* I downloaded the Adidas sales dataset for the USA from Kaggle, which includes features such as sales, profits, units sold, regions, and sales methods.
+Downloaded the Adidas sales dataset for the USA from Kaggle, which includes features such as sales, profits, units sold, regions, and sales methods.
 
 **2. Data Loading and Preparation:**
 
-* I successfully loaded the dataset into Power BI Desktop.
+Successfully loaded the dataset into Power BI Desktop.
 
 **3. Analysis and Visualization:**
 
@@ -34,7 +34,7 @@ Using Power BI’s interactive visuals, I analyzed key metrics and created visua
 
 **4. Interactive Dashboard Creation:**
 
-- I designed an intuitive and visually appealing Power BI dashboard to present the insights effectively, making it easy to identify trends and patterns.
+Designed an intuitive and visually appealing Power BI dashboard to present the insights effectively, making it easy to identify trends and patterns.
 
 ### Conclusion
 
