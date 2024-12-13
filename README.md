@@ -1,4 +1,4 @@
-# USA-Adidas-Sales-Analysis-using-Power-BI
+### USA-Adidas-Sales-Analysis-using-Power-BI
 
 **Aim**
 
@@ -12,7 +12,7 @@ In this project, I analyzed the USA Adidas sales data for the years 2020-2021. I
 
 Power BI Desktop: For data analysis, visualization, and report creation.
 
-# Procedure
+### Procedure
 
 **1. Data Collection:**
 I downloaded the Adidas sales dataset for the USA from Kaggle, which includes features such as sales, profits, units sold, regions, and sales methods.
@@ -36,6 +36,6 @@ Top-Performing Cities by Profit: Highlighting cities contributing the most to pr
 
 I designed an intuitive and visually appealing Power BI dashboard to present the insights effectively, making it easy to identify trends and patterns.
 
-# Conclusion
+### Conclusion
 
 Through this project, I successfully analyzed USA Adidas sales data for 2020-2021 using Power BI. The interactive dashboards and insights provided a clear understanding of the company’s sales trends, regional performance, and sales method efficiency. Key findings, such as identifying top-performing cities, evaluating sales trends, and comparing sales methods, can be leveraged to optimize business strategies and improve overall performance. This project highlights my ability to utilize Power BI to transform raw data into actionable insights, supporting data-driven decision-making.
